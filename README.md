@@ -41,4 +41,4 @@ Estoy listo para integrarme a un equipo de desarrollo y aportar valor desde el p
 
 ---
 
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=JDev-8&show_icons=true&theme=radical)
+<!--![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=JDev-8&show_icons=true&theme=radical)-->
