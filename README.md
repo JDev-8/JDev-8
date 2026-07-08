@@ -1,7 +1,7 @@
 ### Hola, soy Jorge Arevalo 👋
 #### 🚀 Backend Developer | PHP & Laravel | Open to Work
 
-Soy Técnico Superior en Informática enfocado en la construcción de **APIs RESTful** escalables. Actualmente estoy **buscando activamente mi primera oportunidad laboral** como Backend Developer en entornos remotos.
+Soy Técnico Superior en Informática enfocado en la construcción de **APIs RESTful** escalables. Actualmente busco integrarme a un equipo de desarrollo remoto como Backend Developer, donde pueda colaborar activamente y sumar desde el primer día.
 
 Mi enfoque es simple: escribir código limpio, eficiente y bien documentado que resuelva problemas reales de negocio.
 
